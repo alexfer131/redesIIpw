@@ -7,8 +7,14 @@ img.mediana{
 img.grande{
     width: 200px; height: 200px;
 }
-
 .centrado{
     margin:10px auto;
     display:block;
+}
+
+.justificar{
+    text-align: justify
+}
+.negrita{
+    font-weight: bold;
 }
